@@ -1,5 +1,6 @@
-# Smart Contract Audit Checklist
+# Pre-knowledge, Rules & Checklist
 [Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+[Readline Guide](https://learn.openzeppelin.com/security-audits/readiness-guide)
 
 # Weird ERC20 Tokens (None Standard Tokens)
 
