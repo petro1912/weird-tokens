@@ -1,4 +1,4 @@
-# Weird ERC20 Tokens
+# Weird ERC20 Tokens (None Standard Tokens)
 
 This repository contains minimal example implementations in Solidity of ERC20 tokens with behaviour
 that may be surprising or unexpected. All the tokens in this repo are based on real tokens, many of
