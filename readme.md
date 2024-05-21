@@ -1,3 +1,6 @@
+# Smart Contract Audit Checklist
+[Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+
 # Weird ERC20 Tokens (None Standard Tokens)
 
 This repository contains minimal example implementations in Solidity of ERC20 tokens with behaviour
