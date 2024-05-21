@@ -1,7 +1,9 @@
 # Knowledge about Auditing 
 - [Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+- [Audit Checklist](https://www.solulab.com/smart-contract-audit-checklist/)
 - [Readline Guide](https://learn.openzeppelin.com/security-audits/readiness-guide)
 - [Blog](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+- [CTFs](https://www.w3bs3c.com/ctfs)
 
 # Weird ERC20 Tokens (None Standard Tokens)
 
