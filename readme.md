@@ -1,7 +1,7 @@
 # Knowledge about Auditing 
 - [Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
 - [Readline Guide](https://learn.openzeppelin.com/security-audits/readiness-guide)
-- [Blog]([https://cmichel.io](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+- [Blog](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 
 # Weird ERC20 Tokens (None Standard Tokens)
 
